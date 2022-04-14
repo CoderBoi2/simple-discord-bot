@@ -27,3 +27,7 @@
 
 
 
+#Credits
+We did not create this bot but here is the real developer :)
+
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/103612036/163289876-c0b0a7e2-e472-4f50-9ed5-148398af6cf6.png">
